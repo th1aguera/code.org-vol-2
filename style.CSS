@@ -1,0 +1,7 @@
+body {text-align: center;}
+#apps {background-color: #9e0116;}
+#games {background-color: #f00;}
+.line {height: 6px;
+width: 70px;
+background-color: #00ffff;
+margin: 8px auto;}
